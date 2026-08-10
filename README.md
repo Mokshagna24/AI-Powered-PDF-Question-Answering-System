@@ -217,8 +217,6 @@ streamlit run app.py
 
 ## 📸 Demo
 
-> Add screenshots or a GIF of the application here.
-
 Example:
 
 ```
