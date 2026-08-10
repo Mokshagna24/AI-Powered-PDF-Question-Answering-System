@@ -241,8 +241,8 @@ Artificial Intelligence is...
 
 **Vanamala Mokshagna**
 
-- GitHub: https://github.com/your-github-Mokshagna24
-- LinkedIn: https://linkedin.com/in/Mokshagna24
+- GitHub: https://github.com/Mokshagna24
+- LinkedIn: https://www.linkedin.com/in/mokshagna-vanamala/
 
 ---
 
